@@ -1,0 +1,51 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Bit Theme",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(23, 23, 23)",
+      "toolbar_text": "rgb(128, 128, 128)",
+      "frame": "rgb(18, 18, 18)",
+      "tab_background_text": "rgb(128, 128, 128)",
+      "toolbar_field": "rgb(18, 18, 18)",
+      "toolbar_field_text": "rgb(226, 226, 226)",
+      "tab_line": "rgb(65, 184, 131)",
+      "popup": "rgb(18, 18, 18)",
+      "popup_text": "rgb(226, 226, 226)",
+      "button_background_active": "rgb(34, 34, 34)",
+      "button_background_hover": "rgb(39, 39, 39)",
+      "icons": "rgb(65, 184, 131)",
+      "popup_border": "rgb(65, 184, 131)",
+      "popup_highlight_text": "rgb(226, 226, 226)",
+      "popup_highlight": "rgba(65, 184, 131, 0.2)",
+      "sidebar_border": "rgb(65, 184, 131)",
+      "sidebar_highlight_text": "rgb(226, 226, 226)",
+      "sidebar_highlight": "rgba(65, 184, 131, 0.2)",
+      "sidebar_text": "rgb(226, 226, 226)",
+      "sidebar": "rgb(18, 18, 18)",
+      "tab_text": "rgb(226, 226, 226)",
+      "toolbar_bottom_separator": "rgb(23, 23, 23)",
+      "toolbar_field_border_focus": "rgba(65, 184, 131, 0.2)",
+      "toolbar_field_border": "rgb(65, 184, 131)",
+      "toolbar_field_highlight_text": "rgb(226, 226, 226)",
+      "toolbar_field_highlight": "rgba(65, 184, 131, 0.2)",
+      "toolbar_field_separator": "rgb(18, 18, 18)",
+      "toolbar_top_separator": "rgb(18, 18, 18)",
+      "tab_loading": "rgb(65, 184, 131)"
+    }
+  }
+}
